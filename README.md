@@ -1,7 +1,7 @@
 <h1 align="center">⚡ SNOW-MD ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=FF4C29&center=true&vCenter=true&width=1000&height=120&lines=SNOW-MD;ADVANCED+WHATSAPP+BOT;BY+JON-SNOW TECH" alt="Typing SVG" />
+  <img src="https://iili.io/KX0B4nI.jpg/ font=Black+Ops+One&size=65&pause=1000&color=FF4C29&center=true&vCenter=true&width=1000&height=120&lines=SNOW-MD;ADVANCED+WHATSAPP+BOT;BY+JON-SNOW TECH" alt="Typing SVG" />
 </p>
 
 ---
