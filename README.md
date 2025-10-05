@@ -13,7 +13,7 @@
 <a href="https://github.com/JON-TERMINATOR/SNOW-MD/stargazers/">
   <img src="https://img.shields.io/badge/⭐ Give%20a%20Star-yellow?style=for-the-badge&logo=github" />
 </a>
-<a href="https://wa.me/50949100359, 18493879366?text=*Hello+GaaraTech,+I+need+help+with+GAARA-XMD!*">
+<a href="https://wa.me/50949100359 18493879366?text=*Hello+JON-SMOW GAARA-XMD,+I+need+help+SNOW-MD!*">
   <img src="https://img.shields.io/badge/📞 Contact%20Owner-25D366?style=for-the-badge&logo=whatsapp" />
 </a>
 </p>
@@ -51,7 +51,7 @@ You need a **SESSION_ID** to connect the bot to your WhatsApp.
 👤 **Developed by : [JON-SNOW TECH](https://github.com/JON-TERMINATOR)**  
 
 📞 WhatsApp Contact:  
-[![Whatsapp](https://img.shields.io/badge/Chat%20With%20Owner-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/50949100359, 18493879366?text=*Hello+JON-SNOW,+I+need+help+with+SNOW-MD!*)
+[![Whatsapp](https://img.shields.io/badge/Chat%20With%20Owner-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/50949100359 18493879366?text=*Hello+JON-SNOW,+I+need+help+with+SNOW-MD!*)
 
 ---
 
