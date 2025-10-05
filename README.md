@@ -51,7 +51,7 @@ You need a **SESSION_ID** to connect the bot to your WhatsApp.
 👤 **Developed by : [JON-SNOW TECH](https://github.com/JON-TERMINATOR)**  
 
 📞 WhatsApp Contact:  
-[![Whatsapp](https://img.shields.io/badge/Chat%20With%20Owner-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/50949100359 18493879366?text=*Hello+JON-SNOW,+I+need+help+with+SNOW-MD!*)
+[![Whatsapp](https://img.shields.io/badge/Chat%20With%20Owner-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/50949100359,18493879366?text=*Hello+JON-SNOW,+I+need+help+with+SNOW-MD!*)
 
 ---
 
@@ -67,7 +67,7 @@ You need a **SESSION_ID** to connect the bot to your WhatsApp.
 
 ## ⚠️ Disclaimer
 
-- ❌ Not affiliated with **WhatsApp Inc.**  
+- ❌ Not affiliated with **WhatsApp Inc.** 
 - ⚠️ Use at **your own risk**  
 - 🚫 Misuse may lead to **ban**  
 
